@@ -1,4 +1,4 @@
-![Hi there. My name is Daniel!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=41B883&repeat=false&width=435&lines=%F0%9F%91%8B+Hi+there.+My+name+is+Daniel)
+### 👋 Hi there. My name is Daniel
 
 **`Web Developer`**
 
