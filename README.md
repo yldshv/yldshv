@@ -4,10 +4,6 @@
 
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=yldshv&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-</p>
-
 ---
 
 ### Languages and Tools
@@ -30,3 +26,13 @@ I'm a full-stack developer building my version of the digital world one step at 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 #
+
+---
+
+<h3 align="center">Stats</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yldshv&theme=vue-dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=yldshv&theme=vue&hide_border=true" />
+</picture>
+</p>
