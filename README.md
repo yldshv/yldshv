@@ -29,6 +29,6 @@ I'm a full-stack developer building my version of the digital world one step at 
 ---
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yldshv&theme=vue-dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=yldshv&theme=vue&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yldshv&theme=vue-dark&hide_border=true&starting_year=2022" />
+    <img src="https://streak-stats.demolab.com/?user=yldshv&theme=vue&hide_border=true&starting_year=2022" />
 </picture>
