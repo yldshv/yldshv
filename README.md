@@ -4,6 +4,10 @@
 
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=yldshv&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+</p>
+
 ---
 
 ### Languages and Tools
